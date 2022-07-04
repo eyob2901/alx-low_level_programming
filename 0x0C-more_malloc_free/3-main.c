@@ -25,7 +25,7 @@ if (!(i % 10) && i)
 {
 printf("\n");
 }
- printf("0x%02x", buffer[i]);
+printf("0x%02x", buffer[i]);
 i++;
 }
 printf("\n");
